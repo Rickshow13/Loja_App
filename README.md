@@ -48,15 +48,6 @@ O catálogo é uma **lista fixa** dentro do código. Na próxima aula ele virá 
 
 ---
 
-## Prints
-
-**App com itens no carrinho:**
-
-![App com itens no carrinho](docs/prints/app.png)
-
-**Resultado dos testes (`flutter test`):**
-
-![Resultado dos testes](docs/prints/testes.png)
 
 ---
 
